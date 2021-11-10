@@ -8,7 +8,7 @@ int main()
     {
         for(j=1;j<=i;j++)
             cout<<"% ";       //with space
-            cout<<"%";        //without space
+//             cout<<"%";        //without space
         cout<<"\n";
     }
     return 0;
