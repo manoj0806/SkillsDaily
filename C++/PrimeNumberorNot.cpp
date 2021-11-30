@@ -19,3 +19,5 @@ int main()
     cout<<"Prime number";
     return 0;
 }
+
+// Output:
